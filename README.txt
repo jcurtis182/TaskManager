@@ -1,6 +1,6 @@
 A very basic TaskManager-esque program made as a proof of concept. 
 
-Run with the command: $ Task Manager 
+Run with the command: $ TaskManager 
 
 The program prints a list of currently running processes on the user's system, then brings up a command prompt. 
 Options then include: 
